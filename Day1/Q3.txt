@@ -1,0 +1,7 @@
+Q3) How does java achieve platform independency?
+
+Java is a platform independent language which means write anywhere run
+anywhere. It means that we can write java codes in any computer and in any
+operating system and can run that code in any other PC. And this is aquired
+by the JVM(Java Virtual Machine) which converts the codes into Byte codes
+which are universally acceptable.

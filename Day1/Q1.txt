@@ -1,0 +1,13 @@
+Q1) Write the difference between JRE, JDK and JVM?
+
+JRE- JRE is basically a part of JDK. JRE stands for Java Runtime Environment.
+JRE comprises of two parts which are java libraries and JVM(Java Virtual Machine).
+It is used to create and run java applications.
+
+
+JDK- JDK is the main development kit. It stands for Java Development Kit.It contains all the necessary tools 
+to create an java application. 
+
+
+JVM- It is an Virtual Machine and a part of JRE. It converts the .java codes into Byte codes which then makes java
+an platform independent language. It stand for Java Virtual Machine.

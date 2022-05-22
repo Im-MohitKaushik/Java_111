@@ -1,0 +1,10 @@
+Q2) Write the difference between JSE, JEE and JME?
+
+JSE-JSE the name defines the java standard edition which is 
+basically used to make standalone application or desktop applications.
+
+JEE- Java Enterprice Edition. It is used to develop applications at a higher
+level like for a bussiness or an organization.
+
+JME- Java Micro Edition. It is used to make android applications. which requires fine work
+it also includes webs.

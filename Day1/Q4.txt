@@ -1,0 +1,13 @@
+Q4) What are features of Java and explain them?
+
+1.Object oriented- Java is a object oriented language which means it works on real
+world entities.
+
+2.Platform independent- Java is a platform independent languagewhich means it can 
+be written anywhere and can be run anywhere.
+
+3.Multithreaded- It includes a lot of libraries which help java to run multiple tasks at
+a time.
+
+4.Robust- Due to the Byte codes It is considered as the safest language also
+a small deflection in the byte codes is not at all acceptable which makes it highly secure language.
