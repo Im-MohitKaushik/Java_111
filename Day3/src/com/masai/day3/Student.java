@@ -15,7 +15,7 @@ public static void main(String[] args) {
 //	By object
 	Student s1 = new Student();
 	s1.marks=1000;
-	s1.name="Aman";
+	s1.name="Raman";
 	s1.roll=26;
 
 	Student s2 = new Student();
