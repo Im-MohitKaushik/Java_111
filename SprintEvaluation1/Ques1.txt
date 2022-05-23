@@ -1,0 +1,31 @@
+Q1 Why String is immutable in java and what is the difference between String and String Builder? And Write some
+of the methods of String class at least 5 with example.
+
+String: String is a collection of alphabets or characters.Strings are immutable in java because whenever a string is 
+declared in java it occupies a space in memory and when a new string is initialized with the same data. java instead
+of forming a new string it creates a path to the previous string and the second string indicates the first string.
+If mutablity is possible then changes in first string will also be done on the second string.Hence strings are 
+immutable in nature.
+
+String Builder: String Builder is a class which can perform few operations on a string. Or in other words string builder class 
+helps strings to show mutability.
+
+Methods of string class:
+1.string.concat(); : This method is used for concaination
+ex:- 
+let String = "Mohit";
+system.out.println(String.concat(1));    ==> Mohit1
+
+2.string.equals(a); :This method is used to compare two strings.
+let String2 = "Abhishek";
+System.out.println(String.equals(String));   ==> It will give boolean false as both strings are diffrent.
+
+3.charAt(); :- this method is used to find the particular character at the provided index;
+ex:-
+String.charAt(3);  ==> i
+
+4.contains(); :- it will check weather the string contains that value or not
+ex:- String.contain("o");  ==> true;
+
+5.length(); it is used to find the length of the string.
+ex:- String.length(); ==> 5
