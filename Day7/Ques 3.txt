@@ -1,0 +1,18 @@
+
+What is the use of ‘this’ and ‘super’ keyword in java explain with example.
+
+This:- This keyword is used to access the items of a particular class it was
+made to eliminate the confusion between same name variables.
+
+ex:- class Java{
+     int name;
+     void main(String name){
+        this.name;
+ 	}
+    }
+this.name will indicate the String name.
+
+
+Super:- This keyword is used to refer the objects of the parent class it was 
+designed to eliminate the confusion between elements of the child class
+and the parent class having same name.
