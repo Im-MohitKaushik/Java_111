@@ -1,0 +1,6 @@
+Q3) Why is multiple inheritance not supported in Java at class level ?
+
+Multiple inheritance is not supported in java Because of Compiler 
+confusion as in Multiple inheritance two classes are called at the same
+time and the compiler got confused which one to call first. Hence 
+Multiple inheritance is not supported in java.
